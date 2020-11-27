@@ -1,2 +1,2 @@
 # hello-world
-to learn how to create a repository
+Hi there, this is my first commit love y'all!
